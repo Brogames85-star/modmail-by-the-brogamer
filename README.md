@@ -69,8 +69,4 @@ If there are any major issues that you need fixed ASAP, join the support server:
  [WIP, will be added soon!] 
 
 
-(friend request baguette#6969 (Nitro) or baguette#1538 (Normal) until server is added)
-
-
-## License
-[GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
+send freund req to DuckMan#3978 or join = https://discord.gg/cHuNeHbT7D
